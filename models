@@ -1,0 +1,8 @@
+All four models are shared in the Google Drive link below. Download and access the models as needed.
+
+Best_Base_Model.pth: ResNet50 base classifier that categorizes uploaded images into X-ray, MRI, or CT scan types.
+best_xray_model_finetuned.pth: Google ViT model specialized in identifying and classifying diseases from X-ray images.
+best_mri_model_feature_extraction.pth: Meta (Facebook) ViT-based model fine-tuned for MRI disease detection and feature extraction.
+best_ct_model_swin.pth: Microsoft Swin Vision Transformer trained on multiple CT scan disease classes for classification.
+
+https://drive.google.com/drive/folders/1vZ3AAhqFbLVBSVeXwobHRiwwyYLaAmHV?usp=sharing
